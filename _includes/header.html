@@ -53,14 +53,16 @@
               {% if site.author.linkedin %}
               <!-- LinkedIn -->
               <li class="navigation__item">
-                <a href="{{ site.author.linkedin }}" 
-   title="LinkedIn" target="_blank" rel="noopener noreferrer">
-   <i class="icon icon-social-linkedin"></i>
-   <span class="label">LinkedIn</span>
-</a>
-
+                <li class="navigation__item">
+  <a href="{{ site.author.linkedin }}" title="LinkedIn externo" target="_blank" rel="noopener noreferrer">
+    <i class="icon icon-social-linkedin"></i>
+    <span class="label">LinkedIn</span>
+  </a>
               </li>
               {% endif %}
+
+
+              
 
               {% if site.author.github_username %}
               <!-- GitHub -->
