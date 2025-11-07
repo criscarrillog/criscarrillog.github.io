@@ -41,9 +41,11 @@
               {% endif %}
 
             {% if site.author.facebook %} 
-              <!-- Facebook --> <li class="navigation__item"> <a href="http://fb.me/{{ site.author.facebook }}" 
+              <!-- Facebook --> 
+              <li class="navigation__item"> 
+              <a href="http://fb.me/{{ site.author.facebook }}" 
               title="{{ site.author.facebook }} on Facebook" target="_blank">
-                <i class="icon icon-social-facebook"></i> 
+              <i class="icon icon-social-facebook"></i> 
               <span class="label">Facebook</span> 
             </a> 
             </li> 
@@ -52,6 +54,7 @@
 
               {% if site.author.linkedin %}
               <!-- LinkedIn -->
+              <li class="navigation__item">
              <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" 
                title="{{ site.author.linkedin }} on LinkedIn" target="_blank"> 
                <i class="icon icon-social-linkedin"></i> 
