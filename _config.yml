@@ -1,6 +1,11 @@
 # Site settings
 title: Cristian
-description: 'Jeprueba de repositoria'
+description: 'M´aster en Seguridad Inform´atica con experiencia en ethical hacking, respuesta a incidentes, administraci
+´on y operaci´on de plataformas de seguridad. Certificaci´on CEH, con trayectoria profesional en
+´areas de seguridad ofensiva y defensiva dentro de entornos SOC, NOC y TI. Competente en el uso de
+herramientas para la gesti´on de vulnerabilidades, monitoreo de infraestructuras cr´ıticas, correlaci´on de
+eventos, an´alisis de tr´afico y pruebas de penetraci´on. Participante activo en plataformas de formaci´on
+pr´actica como HackTheBox, TryHackMe y VulnHub.'
 url: 'https://criscarrillog.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
