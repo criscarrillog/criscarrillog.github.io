@@ -10,21 +10,15 @@ baseurl: ''
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
-#author:
-#  name: 'Carrillo Cristian'
- # email: cstevenst@gmail.com
-  #twitter_username: na
-  #facebook_username: danny.pillalaza
-  #github_username:  na
-  #linkedin_username:  davidgualoto
+author:
+   name: 'Carrillo Cristian'
+   email: cstevenst@gmail.com
+   twitter_username: na
+   facebook: 'https://www.facebook.com/danny.pillalaza'
+   github_username:  na
+   linkedin_username:  davidgualoto
 
-external_links:
-  site_oficial: ''      # ejemplo de sitio privado o institucional
-  contacto: ''  # correo de contacto
-  portal_clientes: '' # ejemplo de enlace privado
-  github: ''
-  linkedin: 'https://www.linkedin.com/in/davidgualoto/'
-  facebook: 'https://www.facebook.com/danny.pillalaza'
+
 
 defaults:
   -
