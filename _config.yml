@@ -1,9 +1,8 @@
 # Site settings
 title: Cristian
 description: 'Máster en Seguridad Informática con experiencia en ethical hacking, respuesta a incidentes, administración y operación de plataformas de seguridad. Certificación CEH, con trayectoria profesional en
-áreas de seguridad ofensiva y defensiva dentro de entornos SOC, NOC y TI. Competente en el uso de
-herramientas para la gestión de vulnerabilidades, monitoreo de infraestructuras cr´ıticas, correlación de
-eventos, análisis de tráfico y pruebas de penetración. Participante activo en plataformas de formación
+áreas de seguridad ofensiva y defensiva dentro de entornos SOC, NOC y TI. 
+Competente en el uso de herramientas para la gestión de vulnerabilidades, monitoreo de infraestructuras críticas, correlación de eventos, análisis de tráfico y pruebas de penetración. Participante activo en plataformas de formación
 práctica como HackTheBox, TryHackMe y VulnHub.'
 url: 'https://criscarrillog.github.io'
 baseurl: ''
